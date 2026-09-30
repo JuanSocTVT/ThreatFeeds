@@ -16,10 +16,4 @@ hsiwatch.com
 fire2red.hsiwatch.com
 distinctivedialogue.com
 altafone.pt
-d3k7nkg9bamdzm.cloudfront.net
-d1ecb0suuhopzr.cloudfront.net
-d23l50n6ubud7p.cloudfront.net
-d1jp293q9tvi92.cloudfront.net
-d2g6dl71gua1qa.cloudfront.net
-d3nh8sl98s2554.cloudfront.net
-d2im6qbmbhag5x.cloudfront.net
+
